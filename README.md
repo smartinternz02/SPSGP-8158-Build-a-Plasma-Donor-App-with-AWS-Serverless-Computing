@@ -2,6 +2,4 @@
 Build a Plasma Donor App with AWS Serverless Computing
 
 
-Uploaded all the Json files required for the website and also 
-the report of this website is uploaded.
-
+Uploaded all the files required for the website.
